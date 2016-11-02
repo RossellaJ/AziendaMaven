@@ -10,7 +10,7 @@
                     </div>
                     <ul class="nav nav-pills nav-stacked main-menu">
                         <li class="nav-header">Main</li>
-                        <li><a class="ajax-link" href="index.html"><i class="glyphicon glyphicon-plus"></i><span> Nuovo Voce in Rubrica</span></a>
+                        <li><a href="NuovaVoce.jsp"><i class="glyphicon glyphicon-plus"></i><span> Nuova Voce in Rubrica</span></a>
                         </li>
             
                         <li><a class="ajax-link" href="chart.html"><i class="glyphicon glyphicon-align-justify"></i><span> Elenco Voci della Rubrica</span></a>
