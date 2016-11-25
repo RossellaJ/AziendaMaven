@@ -6,7 +6,7 @@
 	<%@ page isELIgnored="false" %>
     
 
-    <jsp:useBean id="admin" class="it.alfa.rossella.AdminBean" scope="session"></jsp:useBean>
+    <jsp:useBean id="admin" class="it.alfa.rossella.bean.AdminBean" scope="session"></jsp:useBean>
     
     <!--        header di pagina  -->
 

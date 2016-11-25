@@ -7,7 +7,7 @@
 	<%@ page isELIgnored="false" %>
     
 	
-	<jsp:useBean id="dipendente" class="it.alfa.rossella.DipendenteBean" scope="session"></jsp:useBean>	
+	<jsp:useBean id="dipendente" class="it.alfa.rossella.bean.DipendenteBean" scope="session"></jsp:useBean>	
 	<jsp:useBean id="voce" class="it.alfa.rossella.model.Voce" scope="session"></jsp:useBean>	
 
  <!--        header di pagina  -->

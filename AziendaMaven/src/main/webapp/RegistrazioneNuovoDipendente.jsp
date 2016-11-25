@@ -6,7 +6,7 @@
 	<%@ page isELIgnored="false" %>
     
 	
-	<jsp:useBean id="dipendente" class="it.alfa.rossella.DipendenteBean" scope="session"></jsp:useBean>
+	<jsp:useBean id="dipendente" class="it.alfa.rossella.bean.DipendenteBean" scope="session"></jsp:useBean>
 <!--  	<jsp:useBean id="message" class="utility.MessageBean" scope="request"></jsp:useBean>
 admin?-->
 

@@ -2,9 +2,9 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 
-    <jsp:useBean id="utente" class="it.alfa.rossella.AdminBean" scope="session"></jsp:useBean>
+    <jsp:useBean id="utente" class="it.alfa.rossella.bean.AdminBean" scope="session"></jsp:useBean>
     <jsp:useBean id="message" class="utility.MessageBean" scope="request"></jsp:useBean>
-    <jsp:useBean id="cliente" class="it.alfa.rossella.ClienteBean" scope="request"></jsp:useBean>
+    <jsp:useBean id="cliente" class="it.alfa.rossella.bean.ClienteBean" scope="request"></jsp:useBean>
     
     <% 
     Servizi s = new Servizi();

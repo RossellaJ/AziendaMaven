@@ -1,5 +1,5 @@
  <%@page import="java.util.List"%>
-<%@page import="it.alfa.rossella.DipendenteBean"%>
+<%@page import="it.alfa.rossella.bean.DipendenteBean"%>
 <%@page import="it.alfa.rossella.servizi.Servizi"%>
 
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
@@ -10,7 +10,7 @@
 	<%@ page isELIgnored="false" %>
     
 	
-	<jsp:useBean id="dipendente" class="it.alfa.rossella.DipendenteBean" scope="session"></jsp:useBean>
+	<jsp:useBean id="dipendente" class="it.alfa.rossella.bean.DipendenteBean" scope="session"></jsp:useBean>
 <!--  	<jsp:useBean id="message" class="utility.MessageBean" scope="request"></jsp:useBean>
 admin?-->
 

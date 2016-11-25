@@ -4,7 +4,7 @@
     
  
  <!--     <jsp:useBean id="message" class="utility.MessageBean" scope="request"></jsp:useBean>-->
-    <jsp:useBean id="dipendente" class="it.alfa.rossella.DipendenteBean" scope="session"></jsp:useBean>
+    <jsp:useBean id="dipendente" class="it.alfa.rossella.bean.DipendenteBean" scope="session"></jsp:useBean>
     
     <% 
     Servizi s = new Servizi();

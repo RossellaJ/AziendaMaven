@@ -5,7 +5,7 @@
     <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 	<%@ page isELIgnored="false" %>
 	
-<jsp:useBean id="dipendente" class="it.alfa.rossella.DipendenteBean" scope="session"></jsp:useBean>	
+<jsp:useBean id="dipendente" class="it.alfa.rossella.bean.DipendenteBean" scope="session"></jsp:useBean>	
 <jsp:useBean id="voce" class="it.alfa.rossella.model.Voce" scope="session"></jsp:useBean>
 <!-- deve settare i valori in bean........come si fa? -->
 	<!--        header di pagina  -->
