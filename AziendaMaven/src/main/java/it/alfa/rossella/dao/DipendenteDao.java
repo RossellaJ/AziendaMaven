@@ -1,8 +1,7 @@
 package it.alfa.rossella.dao;
 
 import hibernateUtil.HibernateUtil;
-
-import it.alfa.rossella.DipendenteBean;
+import it.alfa.rossella.bean.DipendenteBean;
 
 import java.util.ArrayList;
 import java.util.List;

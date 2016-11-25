@@ -1,4 +1,4 @@
-package it.alfa.rossella;
+package it.alfa.rossella.bean;
 
 import javax.persistence.Entity;
 

@@ -2,10 +2,10 @@ package it.alfa.rossella.servizi;
 
 import java.util.List;
 
-import it.alfa.rossella.AdminBean;
-import it.alfa.rossella.ClienteBean;
-import it.alfa.rossella.DipendenteBean;
-import it.alfa.rossella.UtenteBean;
+import it.alfa.rossella.bean.AdminBean;
+import it.alfa.rossella.bean.ClienteBean;
+import it.alfa.rossella.bean.DipendenteBean;
+import it.alfa.rossella.bean.UtenteBean;
 import it.alfa.rossella.dao.AdminDao;
 import it.alfa.rossella.dao.ClienteDao;
 import it.alfa.rossella.dao.DipendenteDao;

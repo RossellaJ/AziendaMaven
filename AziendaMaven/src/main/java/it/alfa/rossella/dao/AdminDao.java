@@ -5,7 +5,7 @@ import org.hibernate.Session;
 import org.hibernate.Transaction;
 
 import hibernateUtil.HibernateUtil;
-import it.alfa.rossella.AdminBean;
+import it.alfa.rossella.bean.AdminBean;
 
 
 public class AdminDao {
